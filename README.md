@@ -12,3 +12,5 @@ Contains 5 major steps:
 6. Permission Calculator
 
 
+[Average of Categories](https://github.com/Neilnarnaware/Privacy-Detection-of-Android-Application/blob/master/Average.png)
+
